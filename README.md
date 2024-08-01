@@ -7,7 +7,7 @@ Olá! Eu sou Davi de Oliveira 🖐️
 
 - 🔭 Hoje procuro vagas de estágio/trainee na área de desenvolvedor.
 - 🌱 Cursando Faculdade de Análise e Desenvolvimento de Sistemas.
-- Cursando Técnico em Desenvolvimento de  Sistemas.
+- 💻 Cursando Técnico em Desenvolvimento de  Sistemas.
 
 Tecologias utilizadas:
 
