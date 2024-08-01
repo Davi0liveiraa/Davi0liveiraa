@@ -5,7 +5,7 @@ Olá! Eu sou Davi de Oliveira 🖐️
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi0liveiraa&theme=holi&show_icons=true)
 
-- 🔭 Hoje procuro vagas de estágio/trainee na área de desenvolvedor.
+- 🔭 Hoje procuro vagas de estágio/trainee na área de desenvolvimento.
 - 🌱 Cursando Faculdade de Análise e Desenvolvimento de Sistemas.
 - 💻 Cursando Técnico em Desenvolvimento de  Sistemas.
 
